@@ -1,4 +1,4 @@
-package com.mytask.prototy.staticPrototy;
+package com.mytask.prototy.simple;
 
 /**
  * 工程名:pattern-prototy
