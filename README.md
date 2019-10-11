@@ -2,7 +2,7 @@
 
 1、定义：指原型实例指定创建对象的种类，并且通过拷贝这些 原型创建新的对象。
         调用者不需要知道任何创建细节，不调用构造函数。属于创建型模式；
-        例如：BeanUtils、Json.parseObject、guawa都是原型设计模式
+        例如：BeanUtils、Json.parseObject、guava都是原型设计模式
 
 2、应用场景：
 
